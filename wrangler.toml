@@ -2,3 +2,7 @@ name = "personal-panel"
 main = "dist/worker.js"
 compatibility_date = "2025-10-24"
 compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "kv"
+id = "950635db6a4a4cde800aa11cdbffdc14"
